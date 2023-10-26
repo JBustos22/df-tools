@@ -1,6 +1,6 @@
 cpm = False
 jumping = False
-crouched = True
+crouched = False
 # contain heights within range
 min_z = 100
 max_z = 215.8
